@@ -29,7 +29,11 @@ modules:
 
       # Icon file.
       - type: file
-        path: org.lamport.tla.toolbox.png
+        path: splash-256x256.png 
+      
+        # Icon file.
+      - type: file
+        path: splash-480x480.png 
 
       # AppData.
       - type: file
@@ -41,5 +45,6 @@ modules:
       - cp -a * /app/TLA/
       - ln -s /app/TLA/toolbox /app/bin/tlatoolbox
       - install -Dm644 org.lamport.tla.toolbox.desktop /app/share/applications/org.lamport.tla.toolbox.desktop
-      - install -Dm644 org.lamport.tla.toolbox.png /app/share/icons/hicolor/256x256/apps/org.lamport.tla.toolbox.png
+      - install -Dm644 splash-256x256.png /app/share/icons/hicolor/256x256/apps/org.lamport.tla.toolbox.png
+      - install -Dm644 splash-480x480.png /app/share/icons/hicolor/480x480/apps/org.lamport.tla.toolbox.png
       - install -Dm644 org.lamport.tla.toolbox.metainfo.xml /app/share/metainfo/org.lamport.tla.toolbox.metainfo.xml
