@@ -27,7 +27,7 @@ modules:
       - type: file
         path: org.lamport.tla.toolbox.desktop
 
-      # Icon file.
+      # Icon file. Source: https://github.com/tlaplus/tlaplus/tree/master/toolbox/org.lamport.tla.toolbox.feature.branding/rootfiles
       - type: file
         path: splash-256x256.png 
       
