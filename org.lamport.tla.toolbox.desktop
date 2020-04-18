@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Exec=tlatoolbox
+Icon=org.lamport.tla.toolbox
+Name=TLA+ Toolbox
+Name[es]=TLA+ Toolbox
+GenericName=TLA+ tools
+GenericName[es]=Herramientas de TLA+
+Comment=TLA+ is a high-level language for modeling programs and systems
+Comment[es]=TLA+ es un lenguaje de alto nivel para modelar programas y sistemas
+Terminal=false
+Categories=Development;ComputerScience;Engineering;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.24
+X-Flatpak=org.lamport.tla.toolbox

@@ -1,0 +1,7 @@
+# Flatpak package
+
+Look at `org.lamport.tla.toolbox.metainfo.xml` for the package and metadata license.
+
+# TLA+ toolbox
+
+Look at the [official repository](https://github.com/tlaplus/tlaplus) for TLA+ and the TLA+ toolbox license details.
