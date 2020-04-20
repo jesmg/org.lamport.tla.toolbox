@@ -38,7 +38,7 @@
     </categories>
     <description>
     <p>
-        TLA+ is a high-level language for modeling programs and systems and is useful for eliminating fundamental design errors, which are hard to find and expensive to correct in code.
+        TLA+ is a high-level language for modeling programs and systems. It is useful for eliminating fundamental design errors, which are hard to find and expensive to correct in code.
     </p>
     <p>
         The TLA Toolbox is an IDE (integrated development environment) for the TLA+ tools.  Use it to:</p>
